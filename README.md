@@ -1,2 +1,2 @@
 # react-redux-express-postgres-auth-app
-A full-stack authentication app built with React, Redux, Express, and PostgreSQL. 
+A full-stack authentication app built with React, Redux, Express, and PostgreSQL. This application includes user registration, login functionality, and a landing page. Upon successful login, the backend returns the user details along with their role. The app features private and public routes, where access to specific routes is restricted based on the user's role. The repository provides a comprehensive example of integrating front-end and back-end technologies for user authentication and authorization.
